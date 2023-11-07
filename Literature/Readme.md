@@ -41,6 +41,8 @@ Empirical observation in my upcoming work encompasses the practical application 
 # Experimental investigation
 Experimental investigation in my upcoming work involves conducting controlled experiments to assess the effectiveness of different explainability techniques. Researchers may compare the interpretability of AI systems with and without XAI methods, measuring factors like user comprehension, trust, and decision accuracy. Through these experiments, the field aims to empirically validate and refine the theoretical models and inform the development of best practices for creating more transparent AI systems. Overall, XAI integrates these three aspects to foster a deeper understanding of AI models and improve their usability in various domains while addressing the "black box" problem.
 
+# Reference
+Binder, M., Heinrich, B., Hopf, M. et al. Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews. Electron Markets 32, 2123–2138 (2022). 
 
 
 
