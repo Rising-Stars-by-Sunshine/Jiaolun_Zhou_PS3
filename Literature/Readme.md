@@ -5,6 +5,9 @@ In the context of XAI, "explainability" means providing insights into why an AI 
 
 Various techniques and approaches are used in XAI, including the development of interpretable models, the generation of model-agnostic explanations, and the visualization of decision processes. The specific methods employed may vary depending on the AI application and the level of interpretability required.
 
+### Abstract
+
+<img src="abstract_wordcould.png" alt="Abstract Word Cloud">
 
 
 
