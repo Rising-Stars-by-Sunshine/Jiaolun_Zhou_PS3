@@ -44,6 +44,45 @@ Experimental investigation in my upcoming work involves conducting controlled ex
 # Reference
 Binder, M., Heinrich, B., Hopf, M. et al. Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews. Electron Markets 32, 2123–2138 (2022). 
 
+# My research
+Name of the research: Interpretable Machine Learning for Autonomous Vehicles: Bridging the Gap with explainable Artificial Intelligence (XAI)
+# Background/Motivation:
+
+Autonomous driving technology is advancing rapidly, but the use of black-box machine learning models in autonomous vehicles has raised concerns regarding their interpretability and trustworthiness. Uninterpretable models can limit the widespread adoption of autonomous driving, particularly in high-risk domains such as urban traffic or medical emergencies (Rudin, 2019).
+
+# Research Question:
+
+This study aims to explore how explainable Artificial Intelligence (XAI) can enhance the interpretability of autonomous driving systems, thereby explaining the decisions of black-box models and providing greater transparency (Lundberg & Lee, 2017).
+
+# Application Scenarios:
+
+We will focus on autonomous vehicles as our case study, encompassing scenarios in city traffic, highways, autonomous taxis, and medical emergency response vehicles. These scenarios require vehicles to make decisions such as obstacle avoidance, compliance with traffic rules, and adapting to different weather conditions (Rudin, 2019).
+
+# Methodology:
+
+The research will employ the unified approach proposed by Lundberg and Lee (2017) for explaining machine learning model predictions and incorporate the local interpretability method suggested by Chen et al. (2018). These methods will be applied to autonomous driving models to generate interpretable decision processes.
+
+# Results:
+
+The study aims to demonstrate how XAI methods can enhance the interpretability of models in the field of autonomous vehicles, providing clearer explanations of model decisions, and thereby increasing trust and transparency in the autonomous driving system (Binder et al., 2018).
+
+# Intellectual Merits/Practical Impacts:
+
+By successfully applying XAI methods, the research intends to provide interpretable models for the field of autonomous vehicles, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of autonomous driving technology (Caruana et al., 2018).
+
+
+# Reference
+
+Binder, M., Heinrich, B., Hopf, M., et al. (2022). "Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews." Electron Markets, 32, 2123–2138.
+
+Caruana, R., Lou, Y., Gehrke, J., Koch, P., Sturm, M., & Elhadad, N. (2015). "Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission." In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1721-1730)
+
+Lundberg, S. M., & Lee, S. I. (2017). "A unified approach to interpreting model predictions." In Advances in neural information processing systems (pp. 4765-4774)
+
+Chen, J., Song, L., Le, G., & Samaras, D. (2018). "Local Interpretable Model-Agnostic Explanations for Black Box Models." arXiv preprint arXiv:1802.03735
+
+Rudin, C. (2019). "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead." Nature Machine Intelligence, 1(5), 206-215
+
 
 
 
