@@ -1,5 +1,7 @@
 # Jiaolun_Zhou_PS1
 <img src="Photo.jpg" alt="Abstract Word Cloud">
+## Self introduction
+My name is Jiaolun Zhou and I am studying computer science at Duke Kunshan University. I conducted research in the sensing and interaction laboratory, and had certain research on the Internet of Things and game programming (unity2D, rpgmaker). Currently, two self-developed horizontal board pixel games have been released on github.
 # Brief Introduction
 Welcome to my GitHub page dedicated to the exciting world of eXplainable Artificial Intelligence (XAI), where we unravel the intricacies of using XAI to explain real-world phenomena. Within this repository, I delve into the fascinating realm of model interpretability and decision transparency using the powerful Sensitivity Analysis Library, SALib.
 
