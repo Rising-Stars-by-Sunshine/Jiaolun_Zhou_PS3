@@ -70,6 +70,10 @@ The study aims to demonstrate how XAI methods can enhance the interpretability o
 
 By successfully applying XAI methods, the research intends to provide interpretable models for the field of autonomous vehicles, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of autonomous driving technology (Caruana et al., 2018).
 
+### Abstract
+
+<img src="image.png" alt="Abstract Word Cloud">
+
 
 # Reference
 
