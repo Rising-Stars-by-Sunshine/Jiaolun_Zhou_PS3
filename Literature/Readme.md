@@ -7,7 +7,7 @@ Various techniques and approaches are used in XAI, including the development of 
 
 ### Abstract
 
-<img src="abstract_wordcould.png" alt="Abstract Word Cloud">
+<img src="04367898f3f93984e2c18fb4255279a.jpg" alt="Abstract Word Cloud">
 
 
 
