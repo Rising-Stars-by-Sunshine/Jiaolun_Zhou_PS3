@@ -33,13 +33,13 @@ This paper introduces an innovative global, model-agnostic XAI approach tailored
 Overall, this work significantly advances the XAI capabilities within a critical category of AI systems, namely neural language models.
 
 # Theoretical aspect
-The theoretical aspect of XAI involves developing models and frameworks that aim to elucidate the decision-making processes of complex AI algorithms. These theories often focus on creating more interpretable representations and algorithms, bridging the gap between advanced machine learning techniques and human understanding.
+The theoretical aspect of my upcoming work involves developing models , using others' XAI structures and frameworks that aim to elucidate the decision-making processes of complex AI algorithms. These theories often focus on creating more interpretable representations and algorithms, bridging the gap between advanced machine learning techniques and human understanding.
 
 # Empirical observation
-Empirical observation in XAI encompasses the practical application of these theories in real-world scenarios. It involves collecting data on how users interact with AI systems and the challenges they face in understanding the AI's decisions. This empirical research helps identify the limitations and areas for improvement in explainability, refining theoretical models based on real-world use cases.
+Empirical observation in my upcoming work encompasses the practical application of these theories in real-world scenarios. It involves collecting data on how users interact with AI systems and the challenges they face in understanding the AI's decisions. This empirical research helps identify the limitations and areas for improvement in explainability, refining theoretical models based on real-world use cases.
 
 # Experimental investigation
-Experimental investigation in XAI involves conducting controlled experiments to assess the effectiveness of different explainability techniques. Researchers may compare the interpretability of AI systems with and without XAI methods, measuring factors like user comprehension, trust, and decision accuracy. Through these experiments, the field aims to empirically validate and refine the theoretical models and inform the development of best practices for creating more transparent AI systems. Overall, XAI integrates these three aspects to foster a deeper understanding of AI models and improve their usability in various domains while addressing the "black box" problem.
+Experimental investigation in my upcoming work involves conducting controlled experiments to assess the effectiveness of different explainability techniques. Researchers may compare the interpretability of AI systems with and without XAI methods, measuring factors like user comprehension, trust, and decision accuracy. Through these experiments, the field aims to empirically validate and refine the theoretical models and inform the development of best practices for creating more transparent AI systems. Overall, XAI integrates these three aspects to foster a deeper understanding of AI models and improve their usability in various domains while addressing the "black box" problem.
 
 
 
