@@ -51,30 +51,31 @@ Experimental investigation in my upcoming work involves conducting controlled ex
 Binder, M., Heinrich, B., Hopf, M. et al. Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews. Electron Markets 32, 2123–2138 (2022). 
 
 # My research
-Name of the research: Interpretable Machine Learning for Autonomous Vehicles: Bridging the Gap with explainable Artificial Intelligence (XAI)
+Name of the research: Explaining data weights in AI judgments by analyzing automotive data using SALib
 # Background/Motivation:
 
-Autonomous driving technology is advancing rapidly, but the use of black-box machine learning models in autonomous vehicles has raised concerns regarding their interpretability and trustworthiness. Uninterpretable models can limit the widespread adoption of autonomous driving, particularly in high-risk domains such as urban traffic or medical emergencies (Rudin, 2019).
+Car price and car performance have always been the elements that car buyers pay attention to, recently there are a lot of software on the car purchase of intelligent recommendation services, related services also appeared on Taobao and other shopping software. However, users do not understand on what basis the AI recommends a particular car to them, nor do they understand whether the car recommended to them by the software is really suitable for them. In this case, we can use SALib for data analysis of cars to explain what elements are more weighted or more capable of determining the AI's final choice in its decision-making process. This research will help users to better understand the decision-making process of AIs using XAI's technology to deepen their understanding of AI decision-making.
 
 # Research Question:
 
-This study aims to explore how explainable Artificial Intelligence (XAI) can enhance the interpretability of autonomous driving systems, thereby explaining the decisions of black-box models and providing greater transparency (Lundberg & Lee, 2017).
+1. How can SALib be used to analyze the judging process of AI?
+2. Why can this technology be more convincing to the customers than other technology?
 
 # Application Scenarios:
 
-We will focus on autonomous vehicles as our case study, encompassing scenarios in city traffic, highways, autonomous taxis, and medical emergency response vehicles. These scenarios require vehicles to make decisions such as obstacle avoidance, compliance with traffic rules, and adapting to different weather conditions (Rudin, 2019).
+We will analyze a set of car data from Kaggle and analyze the AI's decision-making process by comparing different data, such as a lower price for a particular car, a lower fuel consumption for another car, and ultimately the results of the AI's decisions. In this analysis process, because SALib provides many tools in the sensitivity analysis of data, we can more intuitively see the impact of different data changes on the AI decision, so as to achieve better analysis results.
 
 # Methodology:
 
-The research will employ the unified approach proposed by Lundberg and Lee (2017) for explaining machine learning model predictions and incorporate the local interpretability method suggested by Chen et al. (2018). These methods will be applied to autonomous driving models to generate interpretable decision processes.
+This study will use the tools provided to us by SALib for analyzing the data from Kaggle, so as to determine which data is decisive for the outcome of the AI's decision making by analyzing the impact caused by different data on the AI's prediction results. Finally, we will be able to analyze how much importance AI models place on data in their judgments by using the above methods to improve users' understanding of and trust in AI.
 
 # Results:
 
-The study aims to demonstrate how XAI methods can enhance the interpretability of models in the field of autonomous vehicles, providing clearer explanations of model decisions, and thereby increasing trust and transparency in the autonomous driving system (Binder et al., 2018).
+The study aims to demonstrate how XAI methods can enhance the interpretability of models in the field of autonomous vehicles, providing clearer explanations of model decisions, and thereby increasing trust and transparency in the car recommendation system. (Binder et al., 2018).
 
 # Intellectual Merits/Practical Impacts:
 
-By successfully applying XAI methods, the research intends to provide interpretable models for the field of autonomous vehicles, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of autonomous driving technology (Caruana et al., 2018).
+By successfully applying XAI methods, the research intends to provide interpretable models for the field of car recommendation system, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of car recommendation technology (Caruana et al., 2018).
 
 ### Abstract
 
