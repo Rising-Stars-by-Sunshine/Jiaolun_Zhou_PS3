@@ -23,4 +23,4 @@
 
 ### Abstract
 
-<img src="Interpretable Machine Learning for Autonomous Vehicles_ Bridging the Gap with eXplainable Artificial Intelligence (XAI) (2).png" alt="Abstract Word Cloud">
+<img src="Interpretable Machine Learning for Autonomous Vehicles_ Bridging the Gap with eXplainable Artificial Intelligence (XAI) (6).png" alt="Abstract Word Cloud">
