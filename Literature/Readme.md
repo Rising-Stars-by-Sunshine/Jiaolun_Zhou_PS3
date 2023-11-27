@@ -77,8 +77,8 @@ Car price and car performance have always been the elements that car buyers pay 
 
 # Research Question:
 
-1. How can SALib be used to analyze the judging process of AI?
-2. Why can this technology be more convincing to the customers than other technology?
+1. How can SALib be used to analyze the comparison of weights for different parameters in analyzing the problem of AI?
+2. Can Morris be used in analyzing other comparison of weights for different parameters in other models or using other datas?
 
 # Application Scenarios:
 
