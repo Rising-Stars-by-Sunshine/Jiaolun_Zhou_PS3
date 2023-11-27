@@ -1,3 +1,10 @@
+# How to use this notebook and the data?
+First, go to the url provided and press download. Any data can be used in this model, just make sure the data can be used in the model.
+
+Then, download the model.py, this is a sample code used for analyzing the car information. Any code can be used, just make sure it's in line with SALib's requirement.
+
+Lastly, rename your downloaded file as "car_information.csv", name in the code can also be changed. You can run this data on your own computer!
+
 ### Brief introduction to SALib
 SALib, or Sensitivity Analysis Library, is a powerful and versatile Python library used for conducting sensitivity analysis. Sensitivity analysis is a fundamental tool in data science and decision-making that helps assess the influence of input parameters on model outputs. SALib provides a range of techniques to perform global and local sensitivity analysis on models or simulations, making it valuable for a wide array of applications.
 
