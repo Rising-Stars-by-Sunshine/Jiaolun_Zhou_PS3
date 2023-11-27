@@ -1,3 +1,9 @@
+# Brief introduction for the contents here
+XAI is a new type of AI technology that explains AI's decisions and helps users better understand how and why AI makes decisions, so that they can use AI output more transparently, clearly and effectively.
+This study aims to first demonstrate the authors' understanding of XAI, and then to identify a real-world case study in which XAI is put to work.
+The aim of this piece of research is to analyze the performance and value of the best-selling cars in the United States by using XAI to make a cost-effective analysis, thus providing a valid business analysis report for the automotive market. The study also aims to analyze the feasibility and advantages of putting XAI into financial analysis while studying the value for money. This paper uses SALib and firstly analyzes why SALib can be used to analyze financial issues and value for money analysis. This paper will introduce the advantages of SALib and show the reader the motivation, application areas and other important points of this paper.
+The following is the literature section of this research, which will first introduce the definition of XAI and the research area of this paper.
+
 # Definition of XAI
 XAI stands for "Explainable Artificial Intelligence." It refers to the practice of developing artificial intelligence (AI) systems and machine learning models in such a way that their outputs and decision-making processes can be easily understood and explained by humans. The goal of XAI is to make AI more transparent and interpretable, addressing the "black box" problem where AI models make complex decisions that are difficult to comprehend.
 
