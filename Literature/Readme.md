@@ -6,12 +6,18 @@ The following is the literature section of this research, which will first intro
 
 # About SALib package and Morris algorithm applied in this research
 In this paper, we will use the SALib package to analyze the price and performance of automobiles.The SALib package uses the Morris algorithm, an algorithm that allows us to implement sensitive artificial intelligence analysis. The next part of the paper will describe the reasons why Morris enables sensitive AI analysis.
+
 First, there is the sampling strategy of the Morris algorithm, which does not analyze all the data, but rather samples a limited amount of data to make it more feasible for high-dimensional problems.
+
 Second, for each parameter, in this case each item of data for the car, Morris puts ah consider one-dimensional effects (OAT) and overall effects, which are used to represent the direct and overall effects of parameter changes on the output, respectively. This suggests that Morris is able to more clearly represent the effect of each car parameter on the final output and is able to differentiate between the effects caused by different data.
+
 Moving on to meta-analysis, Morris utilized meta-analysis to quantify the sensitivity of each parameter. This is a technique for estimating parameter sensitivities by looking at how the model's output changes under different parameter settings.
 This paper then goes on to describe the advantages of using the Morris algorithm.
+
 The first is computational efficiency, Morris provides a computationally efficient method of global sensitivity analysis, which is especially more credible for high-dimensional parameter spaces. Its sampling strategy and meta-analytic approach ensure this advantage.
+
 Second is the sensitivity to parameter interactions. As mentioned earlier, Morris is able to separately analyze the impact of both individual parameters and the parameter as a whole on the overall results, which helps the user to understand the impact of different parameters on the final results.
+
 The above is the reason why this paper adopts SALib package for data analysis, as well as the specific analysis of Morris algorithm used for SALib package.
 
 # Definition of XAI
