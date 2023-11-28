@@ -18,9 +18,13 @@
 | Maxpower        | Max power of the engine                             | Max power of the engine                             | Continuous    | 0,1000               | kwh         | Numerical |
 | weight          | weight of a car                                     | weight of a car in kg                               | continuous    | 0,1000               | kg          | Numerical |
 
-# Citation
-- FEDESORIANO. 2021. “Heart Failure Prediction Dataset.” Www.kaggle.com. 2021. https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction.
+##Example
+<img src="675ba9ac50f2021d85116c0670d48e5.jpg" alt="Abstract Word Cloud">
 
+
+# Citation
+Wang, Lei. “汽车参数配置_汽车参数配置查询_汽车参数配置库-达示数据.” Www.daas-Auto.com, 20 Sept. 2021, www.daas-auto.com/supermarket_data_De/109.html. Accessed 28 Nov. 2023.
+Richard, Anderson. Car Information and Comparison. 7 Oct. 2022, www.jdpower.com/cars/2022/acura/ilx. Accessed 28 Nov. 2023.
 ### Abstract
 
 <img src="Interpretable Machine Learning for Autonomous Vehicles_ Bridging the Gap with eXplainable Artificial Intelligence (XAI) (6).png" alt="Abstract Word Cloud">
