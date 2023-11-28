@@ -18,7 +18,7 @@
 | weight          | weight of a car                                     | weight of a car in kg                               | continuous    | 0,1000               | kg          | Numerical |
 
 ## Example
-<img src="675ba9ac50f2021d85116c0670d48e5.jpg" alt="Abstract Word Cloud">
+<img src="724f2f77a1f7065e2127979c007e6ac.jpg" alt="Abstract Word Cloud">
 
 
 # Citation
