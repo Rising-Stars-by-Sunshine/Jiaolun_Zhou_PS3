@@ -4,7 +4,7 @@ Visit https://www.daas-auto.com/supermarket_data_De/109.html and https://www.jdp
 # Screen shot for these two professional websites and where data for cars can be found
 <img src="35714c9ab5987a2dc92d0fad4addf01.jpg" alt="Car website screenshot">
 
-
+<img src="df27228f88ea53147aad99dd3498903.jpg" alt="Car website screenshot">
 # How to use this notebook and the data?
 First, go to the url provided and search for any car that can be included in this model. Remember to get all the data requeired in the model. This paper has also provided a sample collected by the author, which can be used in testing.
 
