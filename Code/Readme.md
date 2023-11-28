@@ -9,6 +9,9 @@ Visit https://www.daas-auto.com/supermarket_data_De/109.html and https://www.jdp
 # How to use this notebook and the data?
 First, go to the url provided and search for any car that can be included in this model. Remember to get all the data requeired in the model. This paper has also provided a sample collected by the author, which can be used in testing.
 
+## Important
+Data should include: Connector size;  Battery Size;  Distance Driven; model_year;  Range Buffer;  Driving Eff;  Inverter Eff;  Dispatch Time;  cylinders;  Maxpower;  weight
+
 Then, download the model.py, this is a sample code used for analyzing the car information. Any code can be used, just make sure it's in line with SALib's requirement.
 
 Lastly, rename your data file as "car_information.csv", name in the code can also be changed. You can run this data on your own computer!
@@ -21,7 +24,7 @@ The library offers support for various sensitivity analysis methods, such as Sob
 SALib simplifies the sensitivity analysis process, making it accessible to both researchers and practitioners, and it is widely adopted in the data science community for enhancing model interpretability and decision-making.
 
 ### Data query and analysis process
-In this piece of code, we directly import the data downloaded from the website, which is linked at the end of this paper, and then analyze this piece of data using the model.py file in order to simulate the decision-making process of an AI in reality. We then analyze this decision-making process using morris imported from SALib, and we end up with a dot plot that covers all the parameters in a set, which shows us the most heavily weighted of all the parameters.
+In this piece of code, we directly import the data got from the website, which is linked at top of this article, and then analyze this piece of data using the model.py file in order to simulate the decision-making process of an AI in reality. We then analyze this decision-making process using morris imported from SALib, and we end up with a dot plot that covers all the parameters in a set, which shows us the most heavily weighted of all the parameters.
 
 ### Abstract
 
