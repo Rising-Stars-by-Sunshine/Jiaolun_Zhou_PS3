@@ -11,33 +11,33 @@ In today's data-driven landscape, understanding the inner workings of machine le
 Explore this repository to embark on a journey of model transparency and interpretability. Whether you're a novice intrigued by XAI or a seasoned practitioner seeking advanced insights, you'll discover a treasure trove of resources, code examples, and explanations to harness SALib effectively for a variety of real-world scenarios. Gain the skills to decode your models and make data-driven decisions that matter. Start your XAI adventure with SALib today!
 
 ## Table of Contents
-1. [Self Introduction]
-2. [Lit]
-   1. [Part I]
-      - [Explanation]
-      - [What is SALib and Morris?]
-      - [Background]
-      - [Research Question]
-      - [Application Scenario]
-      - [Methodology]
-      - [Results]
-      - [Intellectual Merits and Practical Impacts]
-      - [Flowchart]
-      - [XAI Relation]
-   3. [Part II: Use morris in SALib to analyze the data weight in the model]
-      - [Background/Motivation]
-      - [Research Question]
-      - [Application Scenarios]
-      - [Data]
-      - [Methodology]
-      - [Results]
-      - [Intellectual Merits/Practical Impacts]
-      - [Flowchart]
-      - [Citation]
-3. [Data]
-   - [Data dictionary]
-   - [Flowchart]
-4. [Code]
-   - [Flowchart]
-   - [Morris Code]
-5. [Citations]
+1. Self Introduction
+2. Lit
+   1. Part I
+      - Explanation
+      - What is SALib and Morris?
+      - Background
+      - Research Question
+      - Application Scenario
+      - Methodology
+      - Results
+      - Intellectual Merits and Practical Impacts
+      - Flowchart
+      - XAI Relation
+   3. Part II: Use morris in SALib to analyze the data weight in the model
+      - Background/Motivation
+      - Research Question
+      - Application Scenarios
+      - Data
+      - Methodology
+      - Results
+      - Intellectual Merits/Practical Impacts
+      - Flowchart
+      - Citation
+3. Data
+   - Data dictionary
+   - Flowchart
+4. Code
+   - Flowchart
+   - Morris Code
+5. Citations
