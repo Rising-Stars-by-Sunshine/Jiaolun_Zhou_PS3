@@ -1,6 +1,10 @@
 # Data query process and how this data is got?
 Visit https://www.daas-auto.com/supermarket_data_De/109.html and https://www.jdpower.com/cars/2022/acura/ilx. These two websites provide professional data about cars in China and oversea markets. This paper manually collects data of 400 cars and use this data for training and testing. If in the future publication, more data is needed, just visit these two websites and get more data.
 
+# Screen shot for these two professional websites and where data for cars can be found
+<img src="Code/35714c9ab5987a2dc92d0fad4addf01.jpg" alt="Abstract Word Cloud">
+
+
 # How to use this notebook and the data?
 First, go to the url provided and search for any car that can be included in this model. Remember to get all the data requeired in the model. This paper has also provided a sample collected by the author, which can be used in testing.
 
