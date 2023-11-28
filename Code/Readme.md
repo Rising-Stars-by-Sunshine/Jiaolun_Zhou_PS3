@@ -2,11 +2,11 @@
 Visit https://www.daas-auto.com/supermarket_data_De/109.html and https://www.jdpower.com/cars/2022/acura/ilx. These two websites provide professional data about cars in China and oversea markets. This paper manually collects data of 400 cars and use this data for training and testing. If in the future publication, more data is needed, just visit these two websites and get more data.
 
 # How to use this notebook and the data?
-First, go to the url provided and search for any car that can be included in this model. Remember to get all the data requeired in the model.
+First, go to the url provided and search for any car that can be included in this model. Remember to get all the data requeired in the model. This paper has also provided a sample collected by the author, which can be used in testing.
 
 Then, download the model.py, this is a sample code used for analyzing the car information. Any code can be used, just make sure it's in line with SALib's requirement.
 
-Lastly, rename your downloaded file as "car_information.csv", name in the code can also be changed. You can run this data on your own computer!
+Lastly, rename your data file as "car_information.csv", name in the code can also be changed. You can run this data on your own computer!
 
 ### Brief introduction to SALib
 SALib, or Sensitivity Analysis Library, is a powerful and versatile Python library used for conducting sensitivity analysis. Sensitivity analysis is a fundamental tool in data science and decision-making that helps assess the influence of input parameters on model outputs. SALib provides a range of techniques to perform global and local sensitivity analysis on models or simulations, making it valuable for a wide array of applications.
