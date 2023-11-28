@@ -14,29 +14,30 @@ Explore this repository to embark on a journey of model transparency and interpr
 1. [Self Introduction](#self-introduction)
 2. [Lit](#literature)
    1. [Part I](#)
-      - [Explanation](#Explanation)
-      - [Background](#introduction)
-      - [Research Question](#ResearchQuestion)
-      - [Application Scenario](#Application-Scenario)
-      - [Methodology](#Methodology)
-      - [Results](#Results)
-      - [Intellectual Merits and Practical Impacts](#Intellectual)
-      - [Flowchart](#flowchart)
-      - [XAI Relation](https://github.com/Rising-Stars-by-Sunshine/ECON211_PS1_Yian/tree/main/Lit#xai-relation)
-   3. [Part II: Predicting Heart Failure](#id)
-      - [Background/Motivation](#backgroundmotivation)
-      - [Research Question](#research-question)
-      - [Application Scenarios](#application-scenarios)
-      - [Data](https://github.com/Rising-Stars-by-Sunshine/ECON211_PS1_Yian/tree/main/Lit#data)
-      - [Methodology](#methodology)
-      - [Results](#results)
-      - [Intellectual Merits/Practical Impacts](#intellectual-meritspractical-impacts)
-      - [Flowchart](#flowchart-1)
-      - [Citation](#citations-for-this-part)
-3. [Data](#data)
-   - [Data dictionary](#data-dictionary)
-   - [Flowchart](#flowchart-2)
-4. [Code](#code)
-   - [Flowchart](#flowchart-2)
-   - [Pseudo-code](#pseudo-code)
-5. [Citations](#citations)
+      - [Explanation]
+      - [What is SALib and Morris?]
+      - [Background]
+      - [Research Question]
+      - [Application Scenario]
+      - [Methodology]
+      - [Results]
+      - [Intellectual Merits and Practical Impacts]
+      - [Flowchart]
+      - [XAI Relation]
+   3. [Part II: Use morris in SALib to analyze the data weight in the model]
+      - [Background/Motivation]
+      - [Research Question]
+      - [Application Scenarios]
+      - [Data]
+      - [Methodology]
+      - [Results]
+      - [Intellectual Merits/Practical Impacts]
+      - [Flowchart]
+      - [Citation]
+3. [Data]
+   - [Data dictionary]
+   - [Flowchart]
+4. [Code]
+   - [Flowchart]
+   - [Morris Code]
+5. [Citations]
