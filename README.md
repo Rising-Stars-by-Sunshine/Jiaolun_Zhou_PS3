@@ -11,9 +11,9 @@ In today's data-driven landscape, understanding the inner workings of machine le
 Explore this repository to embark on a journey of model transparency and interpretability. Whether you're a novice intrigued by XAI or a seasoned practitioner seeking advanced insights, you'll discover a treasure trove of resources, code examples, and explanations to harness SALib effectively for a variety of real-world scenarios. Gain the skills to decode your models and make data-driven decisions that matter. Start your XAI adventure with SALib today!
 
 ## Table of Contents
-1. [Self Introduction](#self-introduction)
-2. [Lit](#literature)
-   1. [Part I](#)
+1. [Self Introduction]
+2. [Lit]
+   1. [Part I]
       - [Explanation]
       - [What is SALib and Morris?]
       - [Background]
