@@ -7,7 +7,7 @@ The source of this series of social unrest and mistrust is the opacity of the AI
 
 In order to solve this problem, it is necessary to introduce the concept of XAI and a series of XAI algorithms, in this research, this paper will introduce the SALib package and Morris algorithm. This paper will provide an example of a solution to the above problem by analyzing the parameter weights of a sample model using the Morris algorithm.
 
-<img src="04367898f3f93984e2c18fb4255279a.jpg" alt="Abstract Word Cloud">
+<img src="e76ba8c199a755da523ffaeca1f81f7.jpg" alt="Abstract Word Cloud">
 
 # Brief introduction for the contents here
 XAI is a new type of AI technology that explains AI's decisions and helps users better understand how and why AI makes decisions, so that customers can use AI output more transparently, clearly and effectively.
