@@ -19,6 +19,9 @@ In the real world we need to consider more complex parameters as well as more co
 In general, rich samples will be more likely to be selected because AI recommendation software will have a membership mechanism, and rich people will increase their chances of being recommended when they become VIPs. This reflects a kind of irrationality of AI recommendation, that is, the AI recommendation algorithm may not be able to recommend the target that the user wants to get the most.
 In this paper, we will use the technique of XAI to observe this black-box AI recommendation model that may be irrational.
 
+This study will likewise provide two different analytical scenarios. In the first analysis, this paper will only consider a few parameters in the dataset.
+In the second analysis, this paper will consider more parameters in dataset and show the complexity comparison by comparing the difference between the two analysis cases.
+
 "Why am I being recommended this thing?" It has become the question of more and more people. Some suspect that these recommended restaurants or attractions are in fact giving bribes to the software developers so that they can get a higher priority. Back in 2019 there were stories of businesses suggesting that if they didn't pay a fixed fee to the platform, they wouldn't get prioritized recommendations.
 
 The source of this series of social unrest and mistrust is the opacity of the AI algorithms themselves, which creates these questions as people are unable to see the decisional process as the AI makes decisions and judgments.
