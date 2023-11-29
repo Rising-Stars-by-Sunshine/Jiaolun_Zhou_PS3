@@ -1,3 +1,14 @@
+# Importance of this research and background
+In modern society, more and more AI smart recommendations are starting to come into human life. For example, 大众点评 can implement recommendations for restaurants and attractions that are suitable for users. 探探 can recommend suitable candidates as relationship objects for users in real time. In addition to the above two software, there are also software such as soul, Baidu map and WeChat small program that use AI algorithms to recommend suitable choices for users. However, while feeling the convenience that AI brings to people, some people also question the recommendation mechanism behind AI algorithms.
+
+"Why am I being recommended this thing?" It has become the question of more and more people. Some suspect that these recommended restaurants or attractions are in fact giving bribes to the software developers so that they can get a higher priority. Back in 2019 there were stories of businesses suggesting that if they didn't pay a fixed fee to the platform, they wouldn't get prioritized recommendations.
+
+The source of this series of social unrest and mistrust is the opacity of the AI algorithms themselves, which creates these questions as people are unable to see the decisional process as the AI makes decisions and judgments.
+
+In order to solve this problem, it is necessary to introduce the concept of XAI and a series of XAI algorithms, in this research, this paper will introduce the SALib package and Morris algorithm. This paper will provide an example of a solution to the above problem by analyzing the parameter weights of a sample model using the Morris algorithm.
+
+<img src="04367898f3f93984e2c18fb4255279a.jpg" alt="Abstract Word Cloud">
+
 # Brief introduction for the contents here
 XAI is a new type of AI technology that explains AI's decisions and helps users better understand how and why AI makes decisions, so that customers can use AI output more transparently, clearly and effectively.
 
@@ -112,6 +123,8 @@ Lundberg, S. M., & Lee, S. I. (2017). "A unified approach to interpreting model 
 Chen, J., Song, L., Le, G., & Samaras, D. (2018). "Local Interpretable Model-Agnostic Explanations for Black Box Models." arXiv preprint arXiv:1802.03735
 
 Rudin, C. (2019). "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead." Nature Machine Intelligence, 1(5), 206-215
+
+Broussard, Meredith . “Artificial Unintelligence.” MIT Press, 29 Sept. 2020, mitpress.mit.edu/9780262537018/artificial-unintelligence/.
 
 @article{binder2022global,
   title={Global reconstruction of language models with linguistic rules--Explainable AI for online consumer reviews},
