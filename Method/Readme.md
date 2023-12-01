@@ -21,6 +21,26 @@ This study will use the tools provided to us by SALib for analyzing the data fro
 
 The study aims to demonstrate how XAI methods can enhance the interpretability of models in the field of autonomous vehicles, providing clearer explanations of model decisions, and thereby increasing trust and transparency in the car recommendation system. (Binder et al., 2018).
 
+**Research Significance:**
+
+My research looks at Explanatory Artificial Intelligence (XAI) and parameter sensitivity analysis to explore how to demystify AI models. This is not just a quest for technical breakthroughs, but also a response to the opacity of current AI technologies in the decision-making process. Improving the interpretability and comprehensibility of models is essential to ensure the trustworthiness and user acceptance of AI systems.
+
+**Related research in the field:**
+
+In the field of Explanatory AI, I can connect with the work of other researchers and work together to delve deeper into how to better explain the decision-making process of complex models. For example, combining this with research in the direction of explanatory machine learning methods, visualization techniques, and user interface design can improve the comprehensibility of AI systems in a more comprehensive way.
+
+**Future Outlook:**
+
+In the future, I expect my research results to lay the foundation for building more transparent and trustworthy AI systems. With the further development of explanatory AI, we may be able to see more applications in key areas such as healthcare, finance, and autonomous driving. This will not only increase the social acceptance of the technology, but also drive the application of AI in a wider range of fields.
+
+**Practical areas of potential application:**
+
+In terms of practical applications, explanatory AI and parameter sensitivity analysis are expected to play a key role in medical diagnosis. By enabling doctors and patients to understand the diagnostic process of AI models, transparency and trust in medical decision-making is improved. Additionally, in the financial sector, being able to explain a model's response to market fluctuations is also important for investors to make more informed decisions.
+
+**Impact in a wide range of fields:**
+
+My research is not limited to specific fields, but has broad implications. From education to law, interpretive AI has the potential to have far-reaching impacts across a wide range of industries. Being able to understand the decision logic of AI models can help increase the acceptance of AI technology among policymakers and general users, and promote the popularization and application of AI technology in more fields.
+
 # Intellectual Merits/Practical Impacts:
 
 By successfully applying XAI methods, the research intends to provide interpretable models for the field of car recommendation system, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of car recommendation technology (Caruana et al., 2018).
