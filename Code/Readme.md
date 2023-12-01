@@ -6,6 +6,18 @@ Visit https://www.daas-auto.com/supermarket_data_De/109.html and https://www.jdp
 
 <img src="df27228f88ea53147aad99dd3498903.jpg" alt="Car website screenshot">
 
+# Step1
+Paste in the url and visit this website.
+<img src="35714c9ab5987a2dc92d0fad4addf01.jpg" alt="Car website screenshot">
+
+# Step2
+Search for a car or a series of cars here.
+<img src="35714c9ab5987a2dc92d0fad4addf01.jpg" alt="Car website screenshot">
+
+# Step3
+You will see a llong list of data of a car. Find the eleven factor that is required in the data dictionary.
+<img src="35714c9ab5987a2dc92d0fad4addf01.jpg" alt="Car website screenshot">
+
 # How to use this notebook and the data?
 First, go to the url provided and search for any car that can be included in this model. Remember to get all the data requeired in the model. This paper has also provided a sample collected by the author, which can be used in testing.
 
