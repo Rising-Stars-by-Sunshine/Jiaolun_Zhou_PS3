@@ -2,7 +2,9 @@ This research directly use data fetched from the Internet, move to the processed
 To help the audience better improve this research in the future, I put a piece of pseudo code here if any data query is needed in the future research.
 
 import pandas as pd
+
 from sklearn.preprocessing import StandardScaler
+
 from sklearn.model_selection import train_test_split
 
 
@@ -21,11 +23,14 @@ dataset = pd.get_dummies(dataset, columns=["categorical_feature1", "categorical_
 
 
 scaler = StandardScaler()
+
 numerical_features = ["numerical_feature1", "numerical_feature2"]
+
 dataset[numerical_features] = scaler.fit_transform(dataset[numerical_features])
 
 
 X = dataset.drop("target_variable", axis=1)
+
 y = dataset["target_variable"]
 
 
