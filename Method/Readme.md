@@ -45,6 +45,8 @@ My research is not limited to specific fields, but has broad implications. From 
 
 By successfully applying XAI methods, the research intends to provide interpretable models for the field of car recommendation system, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of car recommendation technology (Caruana et al., 2018).
 
+# Method
+
 **1. Paramount Research Question:**
    - **Current Limitations:** The current limitations in the field revolve around the lack of comprehensive tools to deeply analyze and interpret parameter weights in complex models. Existing paradigms often struggle to provide nuanced insights into the intricate relationships between model parameters and outputs.
    - **Expansion and Challenge:** My research aims to transcend these limitations by offering a sophisticated software solution that not only conducts sensitivity analysis but delves into the granular details of parameter weights. This expansion enables a more profound understanding of model intricacies and challenges the boundaries of conventional interpretability.
