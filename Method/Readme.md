@@ -41,6 +41,24 @@ In terms of practical applications, explanatory AI and parameter sensitivity ana
 
 My research is not limited to specific fields, but has broad implications. From education to law, interpretive AI has the potential to have far-reaching impacts across a wide range of industries. Being able to understand the decision logic of AI models can help increase the acceptance of AI technology among policymakers and general users, and promote the popularization and application of AI technology in more fields.
 
+**Contributions to the field of practical utilization of the Morris algorithm:**
+
+1. **Environmental modeling and sustainable development:** By applying the Morris algorithm in environmental modeling, your research may have revealed the criticality of model parameters for environmental impacts in the field of sustainable development. This contributes to the development of environmental policies and sustainable resource management.
+
+2. **Climate Change Research:** If you apply the Morris algorithm to climate modeling, this will provide important clues for a deeper understanding of the key factors of climate change. This is important for predicting and adapting to climate change.
+
+**Contributions to areas of practical application of SALib:**
+
+1. **FINANCIAL RISK MANAGEMENT:** By applying SALib in the field of finance, you may have provided financial institutions with a more comprehensive tool for risk sensitivity analysis. This is essential for making investment strategies and risk management decisions.
+
+2. **Medical Decision Support:** If you introduce SALib to medical research, this may provide doctors and policy makers with a better decision support tool. Understanding the sensitivity of parameters in medical models can guide treatment planning.
+
+**Future Outlook:**
+
+1. **Interdisciplinary applications:** Introducing the Morris algorithm and SALib into more interdisciplinary fields, such as cross-cutting medicine, ecology, and social sciences. This is expected to promote interdisciplinary collaboration and lead to better utilization of these tools by researchers in different fields.
+
+2. **Development of Practice Guidelines:** Through the exploration of real-world examples, your study may provide future researchers with practice guidelines for the Morris algorithm and SALib so that they can better apply them in their own work.
+
 # Intellectual Merits/Practical Impacts:
 
 By successfully applying XAI methods, the research intends to provide interpretable models for the field of car recommendation system, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of car recommendation technology (Caruana et al., 2018).
