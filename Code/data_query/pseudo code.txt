@@ -1,6 +1,6 @@
 def model(inputs):
 
-    output = ...
+    output = car_information.csv
 
     return output
 
