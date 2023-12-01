@@ -26,6 +26,9 @@ SALib simplifies the sensitivity analysis process, making it accessible to both 
 ### Data query and analysis process
 In this piece of code, we directly import the data got from the website, which is linked at top of this article, and then analyze this piece of data using the model.py file in order to simulate the decision-making process of an AI in reality. We then analyze this decision-making process using morris imported from SALib, and we end up with a dot plot that covers all the parameters in a set, which shows us the most heavily weighted of all the parameters.
 
+<img src="pseudo code.jpg" alt="Abstract Word Cloud">
+
+
 ### Abstract
 
 <img src="Interpretable Machine Learning for Autonomous Vehicles_ Bridging the Gap with eXplainable Artificial Intelligence (XAI) (3).png" alt="Abstract Word Cloud">
