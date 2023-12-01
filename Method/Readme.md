@@ -1,3 +1,30 @@
+# My research
+Name of the research: Explaining data weights in AI judgments by analyzing automotive data using SALib
+# Background/Motivation:
+
+Car price and car performance have always been the elements that car buyers pay attention to, recently there are a lot of software on the car purchase of intelligent recommendation services, related services also appeared on Taobao and other shopping software. However, users do not understand on what basis the AI recommends a particular car to them, nor do they understand whether the car recommended to them by the software is really suitable for them. In this case, we can use SALib for data analysis of cars to explain what elements are more weighted or more capable of determining the AI's final choice in its decision-making process. This research will help users to better understand the decision-making process of AIs using XAI's technology to deepen their understanding of AI decision-making.
+
+# Research Question:
+
+1. How can SALib be used to analyze the comparison of weights for different parameters in analyzing the problem of AI?
+2. Can Morris be used in analyzing other comparison of weights for different parameters in other models or using other datas?
+
+# Application Scenarios:
+
+We will analyze a set of car data from Kaggle and analyze the AI's decision-making process by comparing different data, such as a lower price for a particular car, a lower fuel consumption for another car, and ultimately the results of the AI's decisions. In this analysis process, because SALib provides many tools in the sensitivity analysis of data, we can more intuitively see the impact of different data changes on the AI decision, so as to achieve better analysis results.
+
+# Methodology:
+
+This study will use the tools provided to us by SALib for analyzing the data from Kaggle, so as to determine which data is decisive for the outcome of the AI's decision making by analyzing the impact caused by different data on the AI's prediction results. Finally, we will be able to analyze how much importance AI models place on data in their judgments by using the above methods to improve users' understanding of and trust in AI.
+
+# Results:
+
+The study aims to demonstrate how XAI methods can enhance the interpretability of models in the field of autonomous vehicles, providing clearer explanations of model decisions, and thereby increasing trust and transparency in the car recommendation system. (Binder et al., 2018).
+
+# Intellectual Merits/Practical Impacts:
+
+By successfully applying XAI methods, the research intends to provide interpretable models for the field of car recommendation system, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of car recommendation technology (Caruana et al., 2018).
+
 **1. Paramount Research Question:**
    - **Current Limitations:** The current limitations in the field revolve around the lack of comprehensive tools to deeply analyze and interpret parameter weights in complex models. Existing paradigms often struggle to provide nuanced insights into the intricate relationships between model parameters and outputs.
    - **Expansion and Challenge:** My research aims to transcend these limitations by offering a sophisticated software solution that not only conducts sensitivity analysis but delves into the granular details of parameter weights. This expansion enables a more profound understanding of model intricacies and challenges the boundaries of conventional interpretability.
