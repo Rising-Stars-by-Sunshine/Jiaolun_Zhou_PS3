@@ -17,3 +17,5 @@
    - **Recognition and Awards:** While forecasting future awards is speculative, the potential for recognition in the form of a Nobel Prize in Economics or Turing Award in Computing lies in the transformative nature of the research. The software's ability to revolutionize how we understand and utilize machine learning models could indeed mark a significant milestone in these respective fields.
 
 In essence, my research addresses critical limitations, employs a state-of-the-art methodology, and holds profound intellectual and practical implications, positioning it as a potential groundbreaking contribution to the field.
+
+<img src="method.png" alt="Abstract Word Cloud">
