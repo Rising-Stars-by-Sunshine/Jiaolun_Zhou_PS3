@@ -67,6 +67,33 @@ Various techniques and approaches are used in XAI, including the development of 
 <img src="04367898f3f93984e2c18fb4255279a.jpg" alt="Abstract Word Cloud">
 
 # Literature
+
+#  The literature uses the same methods but answers different questions or limits to application scenarios. 
+ "Interpretable Machine Learning: a Guide for Making Black Box Models Explainable" by Slack et al. (2019)
+
+**Methodology:** Presented primarily as a review, the paper provides readers with a comprehensive guide to explaining black box models by combing through existing explainable machine learning (XAI) methods and techniques. The authors rely heavily on literature review, summarization and classification of existing XAI techniques in their methodology.
+
+**Core Ideas:** The core idea of the paper is to provide a systematic approach to understanding and explaining black-box machine learning models. It emphasizes the importance of interpretability to facilitate wider adoption in real-world applications. The authors emphasize that XAI is not just an add-on, but a key component in building trustworthy and responsible AI systems.
+
+**Contributions:** The main contribution of the paper is to provide readers with a comprehensive framework to help them understand and select different XAI approaches. By summarizing existing techniques, the paper provides guidance for researchers, engineers, and policy makers to ensure the interpretability of machine learning models.
+
+**Future Perspectives:** The paper may refer to future directions in the field of XAI, which may include more advanced explanatory models, customized explanatory tools tailored to the needs of specific industries, and improvements in the balance between explanatory and performance. The discussion of future prospects helps guide the reader to new opportunities and challenges in XAI research.
+
+# The literature addresses similar research questions but uses different methods or limits to different application scenarios.
+To help the audience better understand Morris and SALib, I cite two related literature here.
+1. **"SALib: An open-source Python library for Sensitivity Analysis" by Herman et al. (2017):**
+   - **Methodology:** The paper details SALib, an open-source Python library for sensitivity analysis. The methodology consists mainly of a description of the design and implementation of SALib, as well as a comparison with other sensitivity analysis tools.
+   - **Central Idea:** The central idea of the paper is to present the uses and flexibility of SALib, emphasizing its value in exploring the sensitivity of model outputs to input parameters.
+   - **Contribution:** The contribution of the paper is to provide scientists and engineers with an easy-to-use tool for performing sensitivity analyses and to provide researchers with a way to understand the sources of uncertainty in models.
+   - **Future Prospects:** The paper may discuss future directions for SALib, such as adding support for more model types and improving computational efficiency.
+
+2. **"Exploring Sensitivity Analysis and Uncertainty Quantification Practices in Environmental Modelling" by Pianosi et al. (2016):**
+   - **Methodology:** The paper may address the application of SALib and practical approaches to sensitivity analysis and uncertainty quantification in environmental modeling.
+   - **Central Idea:** The paper is likely to emphasize the importance of analyzing parameter sensitivities of models in the field of environmental sciences and how tools such as SALib can be used to achieve this.
+   - **Contribution:** The paper may have surveyed and summarized the application of SALib in the field of environmental science, providing lessons for researchers in other fields.
+   - **Future Perspectives:** The paper may have explored the future development of sensitivity analyses in environmental modeling and made recommendations to improve and extend SALib.
+
+#  The literature is limited to the same application scenario but uses different methods or answers other questions. 
 # Introduction:
 Binder et al.(2020) focused on the language model. The focus of this paper lies in language models, particularly BERT, which are extensively utilized in text analytics tasks such as sentiment analysis. These models, however, pose a challenge as they are often perceived as opaque "black boxes," making their predictions difficult to comprehend. There is an emerging need for explainable AI (XAI) to deconstruct and rationalize predictions made by complex AI models, like BERT, to ensure compliance with regulations such as GDPR's "right to explanation."
 
@@ -100,6 +127,17 @@ Experimental investigation in my upcoming work involves conducting controlled ex
 
 # Reference
 Binder, M., Heinrich, B., Hopf, M. et al. Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews. Electron Markets 32, 2123–2138 (2022). 
+
+## • How is your research similar to or built on the specific parts of the existing literature? How is your research advanced or different from the existing literature?
+In the software I wrote alone, I implemented the analysis of the parameter weights in the model, using the SALib database. My research was inspired by three previously mentioned papers, "Interpretable Machine Learning: A Guide for Making Black Box Models Explainable", "SALib: An open-source Python library for Sensitivity Analysis", "SALib: An open-source Python library for Sensitivity Analysis", and "Exploring Sensitivity Analysis and Uncertainty Quantification Practices in Environmental Modelling".
+
+All three papers have commonalities in exploring interpretive and sensitivity analysis in machine learning. First, they all focus on the interpretability of the parameters in the model, emphasizing the importance of understanding the relationship between the model output and the input parameters. This is relevant to my research as I focus on analyzing the weights of the parameters in a model to reveal their impact on the model output. This common focus on interpretability has led to my interest in building software that can reveal the internal mechanisms of a model.
+
+Also, the use of the SALib library was part of my research inspiration." The paper "SALib: An open-source Python library for Sensitivity Analysis" details the design and implementation of SALib as a powerful tool for performing sensitivity analysis. I was so inspired by it that I decided to implement my software using the SALib database in order to perform the analysis of parameter weights more easily and efficiently.
+
+However, although my research was inspired by the aforementioned paper, I also made some contributions in terms of innovation. My software not only focuses on sensitivity analysis, but also looks at deeply analyzing the weights of each parameter in the model. By implementing a detailed analysis of the weights, I enable the user to get a fuller picture of how the model works. In addition, I have included some customization features to improve the user experience and applicability of the software. This innovation of in-depth parsing and enhanced functionality is unique to my research.
+
+Taken together, my research provides a new approach to comprehensive, in-depth parsing of model parameter weights based on explanatory and sensitivity analysis by combining the SALib library and customization features. This comprehensive analysis helps users to better understand the internal mechanisms of the model and thus make more informed decisions in real-world applications.
 
 # My research
 Name of the research: Explaining data weights in AI judgments by analyzing automotive data using SALib
