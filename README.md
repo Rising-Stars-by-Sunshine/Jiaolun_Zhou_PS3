@@ -42,4 +42,5 @@ Explore this repository to embark on a journey of model transparency and interpr
 4. Code
    - Flowchart
    - Morris Code
+5. Method
 5. Citations
