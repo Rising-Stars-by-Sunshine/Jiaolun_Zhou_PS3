@@ -14,7 +14,7 @@ Explore this repository to embark on a journey of model transparency and interpr
 
 ## Table of Contents
 1. Self Introduction
-2. Lit
+2. [**Literature**](./Literature)
    1. Part I
       - Explanation
       - What is SALib and Morris?
@@ -36,11 +36,11 @@ Explore this repository to embark on a journey of model transparency and interpr
       - Intellectual Merits/Practical Impacts
       - Flowchart
       - Citation
-3. Data
+3. [**Data**](./Data)
    - Data dictionary
    - Flowchart
-4. Code
+4. [**Code**](./Code)
    - Flowchart
    - Morris Code
-5. Method
-5. Citations
+5. [**Method**](./Method)
+
