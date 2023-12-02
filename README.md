@@ -16,25 +16,25 @@ Explore this repository to embark on a journey of model transparency and interpr
 1. [**Self Introduction**](#self-introduction)
 2. [**Literature**](./Literature)
    1. [Part I](./Literature/#Literature)
-      - Explanation
-      - What is SALib and Morris?
-      - Background
-      - Research Question
-      - Application Scenario
-      - Methodology
-      - Results
-      - Intellectual Merits and Practical Impacts
-      - Flowchart
-      - XAI Relatio_
+      - [Explanation]
+      - [What is SALib and Morris?]
+      - [Background]
+      - [Research Question]
+      - [Application Scenario]
+      - [Methodology]
+      - [Results]
+      - [Intellectual Merits and Practical Impacts]
+      - [Flowchart]
+      - [XAI Relatio_]
    2. [Part II: Use morris in SALib to analyze the data weight in the model](./Literature/#My-research)
-      - Background/Motivation
-      - Research QuestionName of the research
-      - Data
-      - Methodology
-      - Results
-      - Intellectual Merits/Practical Impacts
-      - Flowchart
-      - Citation
+      - [Background/Motivation]
+      - [Research QuestionName of the research]
+      - [Data]
+      - [Methodology]
+      - [Results]
+      - [Intellectual Merits/Practical Impacts]
+      - [Flowchart]
+      - [Citation]
 3. [**Data**](./Data)
    - [Data dictionary](./Data/#Data-dictionary)
    - [Flowchart](./Data/#abstract)
