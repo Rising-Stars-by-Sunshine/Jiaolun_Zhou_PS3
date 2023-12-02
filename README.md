@@ -25,11 +25,10 @@ Explore this repository to embark on a journey of model transparency and interpr
       - Results
       - Intellectual Merits and Practical Impacts
       - Flowchart
-      - XAI Relation
-   2. [Part II: Use morris in SALib to analyze the data weight in the model](./Literature/#My_Research)
+      - XAI Relatio_
+   2. [Part II: Use morris in SALib to analyze the data weight in the model](./Literature/#My-research)
       - Background/Motivation
-      - Research Question
-      - Application Scenarios
+      - Research QuestionName of the research
       - Data
       - Methodology
       - Results
