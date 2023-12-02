@@ -63,6 +63,8 @@ My research is not limited to specific fields, but has broad implications. From 
 
 By successfully applying XAI methods, the research intends to provide interpretable models for the field of car recommendation system, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of car recommendation technology (Caruana et al., 2018).
 
+<img src="image.png" alt="Abstract Word Cloud">
+
 # Method
 
 **1. Paramount Research Question:**
