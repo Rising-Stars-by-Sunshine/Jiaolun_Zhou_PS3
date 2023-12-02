@@ -94,6 +94,7 @@ To help the audience better understand Morris and SALib, I cite two related lite
    - **Future Perspectives:** The paper may have explored the future development of sensitivity analyses in environmental modeling and made recommendations to improve and extend SALib.
 
 #  The literature is limited to the same application scenario but uses different methods or answers other questions. 
+"Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews." By Binder et al. (2020)
 # Introduction:
 Binder et al.(2020) focused on the language model. The focus of this paper lies in language models, particularly BERT, which are extensively utilized in text analytics tasks such as sentiment analysis. These models, however, pose a challenge as they are often perceived as opaque "black boxes," making their predictions difficult to comprehend. There is an emerging need for explainable AI (XAI) to deconstruct and rationalize predictions made by complex AI models, like BERT, to ensure compliance with regulations such as GDPR's "right to explanation."
 
@@ -138,6 +139,24 @@ Also, the use of the SALib library was part of my research inspiration." The pap
 However, although my research was inspired by the aforementioned paper, I also made some contributions in terms of innovation. My software not only focuses on sensitivity analysis, but also looks at deeply analyzing the weights of each parameter in the model. By implementing a detailed analysis of the weights, I enable the user to get a fuller picture of how the model works. In addition, I have included some customization features to improve the user experience and applicability of the software. This innovation of in-depth parsing and enhanced functionality is unique to my research.
 
 Taken together, my research provides a new approach to comprehensive, in-depth parsing of model parameter weights based on explanatory and sensitivity analysis by combining the SALib library and customization features. This comprehensive analysis helps users to better understand the internal mechanisms of the model and thus make more informed decisions in real-world applications.
+
+# Contribution to literature
+
+### To "SALib: An open-source Python library for Sensitivity Analysis" by Herman et al. (2017)
+
+**Practical Application Scenarios:** Going beyond theoretical exploration, my study successfully applies the Morris algorithm and SALib to various practical domains. By conducting case studies in environmental science, medicine, and finance, I have enriched the practical application experience of these tools, expanding their relevance to real-world problems.
+
+### To "Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews." By Binder et al. (2020)
+
+**Exploring New Research Avenues:** The paper outlines new research directions within the global sensitivity analysis field. These directions include exploring more efficient parameter sensitivity assessment methods, deepening interdisciplinary collaborations, and identifying potential applications in emerging fields. This provides researchers with guidance on the future development of the field.
+
+**Practical Guides:** The research includes detailed practical guides, offering step-by-step operational procedures, solutions to common issues, and best practices for leveraging the Morris algorithm and SALib in real-world scenarios. These guides enhance the feasibility and usability of these tools for practical applications.
+
+**Algorithm Performance Evaluation:** Comprehensive evaluations of the Morris algorithm and SALib performance have been conducted, considering various datasets, parameter configurations, and application scenarios. These evaluations not only serve as references for other researchers in tool selection but also guide further optimization of their performance in real-world applications.
+
+### To "Interpretable Machine Learning: a Guide for Making Black Box Models Explainable" by Slack et al. (2019)
+
+**Interdisciplinary Integration:** The study not only delves vertically into the Morris algorithm and SALib but also horizontally integrates them into multiple disciplinary domains. This interdisciplinary fusion fosters collaboration across different fields, opening up new opportunities for cross-disciplinary research in the global sensitivity analysis domain and facilitating knowledge integration and innovation.
 
 # My research
 Name of the research: Explaining data weights in AI judgments by analyzing automotive data using SALib
