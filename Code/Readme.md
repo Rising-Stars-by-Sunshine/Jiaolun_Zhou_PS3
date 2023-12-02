@@ -42,7 +42,6 @@ In this piece of code, we directly import the data got from the website, which i
 
 <img src="2580085cfd347d5dc13fcd921fba24a.jpg" alt="Car website screenshot">
 
-<img src="pseudo code.jpg" alt="Abstract Word Cloud">
 
 
 ### Abstract
