@@ -61,8 +61,7 @@ Empirical observation in my upcoming work encompasses the practical application 
 # Experimental investigation
 Experimental investigation in my upcoming work involves conducting controlled experiments to assess the effectiveness of different explainability techniques. Researchers may compare the interpretability of AI systems with and without XAI methods, measuring factors like user comprehension, trust, and decision accuracy. Through these experiments, the field aims to empirically validate and refine the theoretical models and inform the development of best practices for creating more transparent AI systems. Overall, XAI integrates these three aspects to foster a deeper understanding of AI models and improve their usability in various domains while addressing the "black box" problem.
 
-# Reference
-Binder, M., Heinrich, B., Hopf, M. et al. Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews. Electron Markets 32, 2123–2138 (2022). 
+
 
 ## • How is your research similar to or built on the specific parts of the existing literature? How is your research advanced or different from the existing literature?
 In the software I wrote alone, I implemented the analysis of the parameter weights in the model, using the SALib database. My research was inspired by three previously mentioned papers, "Interpretable Machine Learning: A Guide for Making Black Box Models Explainable", "SALib: An open-source Python library for Sensitivity Analysis", "SALib: An open-source Python library for Sensitivity Analysis", and "Exploring Sensitivity Analysis and Uncertainty Quantification Practices in Environmental Modelling".
@@ -196,17 +195,7 @@ By successfully applying XAI methods, the research intends to provide interpreta
 
 # Reference
 
-Binder, M., Heinrich, B., Hopf, M., et al. (2022). "Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews." Electron Markets, 32, 2123–2138.
 
-Caruana, R., Lou, Y., Gehrke, J., Koch, P., Sturm, M., & Elhadad, N. (2015). "Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission." In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1721-1730)
-
-Lundberg, S. M., & Lee, S. I. (2017). "A unified approach to interpreting model predictions." In Advances in neural information processing systems (pp. 4765-4774)
-
-Chen, J., Song, L., Le, G., & Samaras, D. (2018). "Local Interpretable Model-Agnostic Explanations for Black Box Models." arXiv preprint arXiv:1802.03735
-
-Rudin, C. (2019). "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead." Nature Machine Intelligence, 1(5), 206-215
-
-Broussard, Meredith . “Artificial Unintelligence.” MIT Press, 29 Sept. 2020, mitpress.mit.edu/9780262537018/artificial-unintelligence/.
 ```
 @article{binder2022global,
   title={Global reconstruction of language models with linguistic rules--Explainable AI for online consumer reviews},
