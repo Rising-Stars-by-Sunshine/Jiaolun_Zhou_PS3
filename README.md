@@ -40,7 +40,6 @@ Explore this repository to embark on a journey of model transparency and interpr
    - [Data dictionary](./Data/#Data-dictionary)
    - [Flowchart](./Data/#abstract)
 4. [**Code**](./Code)
-   - Flowchart
-   - Morris Code
+   - [Flowchart](./Code/#abstract)
 5. [**Method**](./Method)
 
