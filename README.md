@@ -7,6 +7,7 @@
 
 - **Project Summary**: 
   - This project uses the SALib package and the tools it provides to analyze the parameter weights in a black box model to explain the decision making process of the black box model.The SALib package is an integrated package based on the morris algorithm that provides sensitive analysis of the model, and its sensitivity provides the theoretical basis for this research. as well as technical basis for this study.
+
     Research questions:
   - How can SALib be used to analyze the comparison of weights for different parameters in analyzing the problem of AI?
   - Can Morris be used in analyzing other comparison of weights for different parameters in other models or using other datas?
