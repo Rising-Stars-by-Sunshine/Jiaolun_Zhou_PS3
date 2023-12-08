@@ -12,8 +12,8 @@
   - Can Morris be used in analyzing other comparison of weights for different parameters in other models or using other datas?
 
 # Answer to research questions by chatgpt
-<img src="Jiaolun's Poster.png" alt="Abstract Word Cloud">
-<img src="Jiaolun's Poster.png" alt="Abstract Word Cloud">
+<img src="590841e16841ef6387f84952f107304.jpg" alt="Abstract Word Cloud">
+<img src="00ffcd60a61426413cd149df0ea5937.jpg" alt="Abstract Word Cloud">
  
   - [Application Scenario (Data Source)](./Literature/#Literature)
   - [Methodology](./Literature/#Literature)
@@ -64,8 +64,8 @@ In the results section, the obtained parameter weight rankings from the black-bo
 - Posters
   <img src="Jiaolun's Poster.png" alt="Abstract Word Cloud">
 - Figures
-  <img src="Jiaolun's Poster.png" alt="Abstract Word Cloud">
-  <img src="Jiaolun's Poster.png" alt="Abstract Word Cloud">
+  <img src="83e2772f163a3aabec28646f4570867.jpg" alt="Abstract Word Cloud">
+  <img src="93a096a97fd50014eff969614916133.jpg" alt="Abstract Word Cloud">
 - Slides
    In the presentation, poster is used as slide to show the result and process.
 - Presentations
