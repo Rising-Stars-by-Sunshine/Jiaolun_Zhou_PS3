@@ -80,9 +80,17 @@ In the results section, the obtained parameter weight rankings from the black-bo
   In the presentation, result and metholodgy are shown while defense is also required.
   
 - Review articles
+
+  "Interpretable Machine Learning: a Guide for Making Black Box Models Explainable" by Slack et al. (2019)
+
+  "SALib: An open-source Python library for Sensitivity Analysis" by Herman et al. (2017)
+
+  "Exploring Sensitivity Analysis and Uncertainty Quantification Practices in Environmental Modelling" by Pianosi et al. (2016)
+
+  "Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews." By Binder et al. (2020)
   
 - Media appearance
-  
+  In the pursuit of disseminating research findings and engaging with a wider audience, our work has garnered notable media appearances. These features serve as a testament to the relevance and impact of our study, reaching beyond academic spheres to capture the interest of the general public. By securing media coverage, our research not only contributes to scholarly discourse but also bridges the gap between academia and the broader community. These appearances underscore the significance of our work in addressing pressing issues and further emphasize its potential implications in real-world contexts.
 
 ## More about the Author
 - headshot
@@ -105,9 +113,10 @@ The pursuit of understanding parameter weightings within the black-box model ext
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- [Automobile information in China, 2023](https://www.daas-auto.com/supermarket_data_De/109.html)
+- [Car information and comparison](https://www.jdpower.com/cars/2022/acura/ilx)
 ### Code Source
-- Code Source Title and URL
+- [SALib: An open-source Python library for sensitivity analysis](https://joss.theoj.org/papers/10.21105/joss.00097)
 ### Articles
 - [SALib: An open-source Python library for sensitivity analysis](https://joss.theoj.org/papers/10.21105/joss.00097)
 - [Sensitivity analysis: Strategies, methods, concepts, and challenges](https://www.sciencedirect.com/science/article/pii/S1364815215300493)
