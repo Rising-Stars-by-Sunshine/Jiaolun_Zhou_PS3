@@ -74,6 +74,10 @@ In this study, data collection was conducted from two reputable automotive websi
 ## Result
 In the results section, the obtained parameter weight rankings from the black-box model offer valuable insights into the relative importance of each variable. The interpretation of the black-box model sheds light on the key factors influencing the overall system. By deciphering the parameter weightings, a clearer understanding emerges regarding the impact of individual parameters on the model's outcomes. This result not only provides actionable information for refining the model but also contributes to a deeper comprehension of the intricate relationships within the black-box system, enhancing the overall effectiveness and interpretability of the analytical outcomes.
 
+<img src="93a096a97fd50014eff969614916133.jpg" alt="Abstract Word Cloud">
+
+<img src="83e2772f163a3aabec28646f4570867.jpg" alt="Abstract Word Cloud">
+
 # Intellectual Merits/Practical Impacts:
 By successfully applying XAI methods, the research intends to provide interpretable models for the field of car recommendation system, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of car recommendation technology (Caruana et al., 2018).
 
