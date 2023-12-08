@@ -75,7 +75,7 @@ The theoretical aspect of my upcoming work involves developing models , using ot
 **Empirical observation**
 Empirical observation in my upcoming work encompasses the practical application of these theories in real-world scenarios. It involves collecting data on how users interact with AI systems and the challenges they face in understanding the AI's decisions. This empirical research helps identify the limitations and areas for improvement in explainability, refining theoretical models based on real-world use cases.
 
-# Experimental investigation**
+**Experimental investigation**
 Experimental investigation in my upcoming work involves conducting controlled experiments to assess the effectiveness of different explainability techniques. Researchers may compare the interpretability of AI systems with and without XAI methods, measuring factors like user comprehension, trust, and decision accuracy. Through these experiments, the field aims to empirically validate and refine the theoretical models and inform the development of best practices for creating more transparent AI systems. Overall, XAI integrates these three aspects to foster a deeper understanding of AI models and improve their usability in various domains while addressing the "black box" problem.
 
 
