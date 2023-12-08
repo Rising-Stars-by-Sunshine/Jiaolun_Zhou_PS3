@@ -76,10 +76,12 @@ In the results section, the obtained parameter weight rankings from the black-bo
   <img src="93a096a97fd50014eff969614916133.jpg" alt="Abstract Word Cloud">
   
 - Slides
-   In the presentation, poster is used as slide to show the result and process.
+
+  In the presentation, poster is used as slide to show the result and process.
   
 - Presentations
-  In the presentation, result and metholodgy are shown while defense is also required.
+
+   In the presentation, result and metholodgy are shown while defense is also required.
   
 - Review articles
 
@@ -92,6 +94,7 @@ In the results section, the obtained parameter weight rankings from the black-bo
   "Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews." By Binder et al. (2020)
   
 - Media appearance
+
   In the pursuit of disseminating research findings and engaging with a wider audience, our work has garnered notable media appearances. These features serve as a testament to the relevance and impact of our study, reaching beyond academic spheres to capture the interest of the general public. By securing media coverage, our research not only contributes to scholarly discourse but also bridges the gap between academia and the broader community. These appearances underscore the significance of our work in addressing pressing issues and further emphasize its potential implications in real-world contexts.
 
 ## More about the Author
