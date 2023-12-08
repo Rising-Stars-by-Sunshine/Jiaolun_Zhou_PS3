@@ -3,7 +3,7 @@
 In this part, there will be four literature related to this research and I will explain how I am inspired by these literature and how I contribute to these literature.
 
 #  The literature uses the same methods but answers different questions or limits to application scenarios. 
- "Interpretable Machine Learning: a Guide for Making Black Box Models Explainable" by Slack et al. (2019)
+ 1. "Interpretable Machine Learning: a Guide for Making Black Box Models Explainable" by Slack et al. (2019)
 
 **Methodology:** Presented primarily as a review, the paper provides readers with a comprehensive guide to explaining black box models by combing through existing explainable machine learning (XAI) methods and techniques. The authors rely heavily on literature review, summarization and classification of existing XAI techniques in their methodology.
 
@@ -13,7 +13,7 @@ In this part, there will be four literature related to this research and I will 
 
 **Future Perspectives:** The paper may refer to future directions in the field of XAI, which may include more advanced explanatory models, customized explanatory tools tailored to the needs of specific industries, and improvements in the balance between explanatory and performance. The discussion of future prospects helps guide the reader to new opportunities and challenges in XAI research.
 
-"Sensitivity analysis: Strategies, methods, concepts, and challenges" by Pianosi, F., Sarrazin, F., & Wagener, T. (2022)
+2. "Sensitivity analysis: Strategies, methods, concepts, and challenges" by Pianosi, F., Sarrazin, F., & Wagener, T. (2022)
 
 **Methodology**:
 
