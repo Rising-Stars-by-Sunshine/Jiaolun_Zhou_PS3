@@ -158,4 +158,52 @@ Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *
   year={2022},
   publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
 }
+
+@article{binder2022global,
+  title={Global reconstruction of language models with linguistic rules--Explainable AI for online consumer reviews},
+  author={Binder, Markus and Heinrich, Bernd and Hopf, Marcus and Schiller, Alexander},
+  journal={Electronic Markets},
+  volume={32},
+  number={4},
+  pages={2123--2138},
+  year={2022},
+  publisher={Springer}
+}
+
+@inproceedings{caruana2015intelligible,
+  title={Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission},
+  author={Caruana, Rich and Lou, Yin and Gehrke, Johannes and Koch, Paul and Sturm, Marc and Elhadad, Noemie},
+  booktitle={Proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining},
+  pages={1721--1730},
+  year={2015}
+}
+
+@article{lundberg2017unified,
+  title={A unified approach to interpreting model predictions},
+  author={Lundberg, Scott M and Lee, Su-In},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
+}
+
+@article{shi2018structural,
+  title={Structural estimation of behavioral heterogeneity},
+  author={Shi, Zhentao and Zheng, Huanhuan},
+  journal={Journal of Applied Econometrics},
+  volume={33},
+  number={5},
+  pages={690--707},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+
+@article{rudin2019stop,
+  title={Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead},
+  author={Rudin, Cynthia},
+  journal={Nature machine intelligence},
+  volume={1},
+  number={5},
+  pages={206--215},
+  year={2019},
+  publisher={Nature Publishing Group UK London}
 ```
