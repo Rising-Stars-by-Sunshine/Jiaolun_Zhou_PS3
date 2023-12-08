@@ -64,3 +64,28 @@ To explain about the Maths formula behind Morris, refer to the graph or the offi
 How can SALib be used to analyze the comparison of weights for different parameters in analyzing the problem of AI?
 
 Can Morris be used in analyzing other comparison of weights for different parameters in other models or using other datas?
+
+## Application scenario
+In the data collection phase, information from 800 different car models was gathered, encompassing eight key parameters sourced from two authoritative automotive websites. These parameters constitute a comprehensive dataset that serves as the foundation for analyzing user preferences and priorities in relation to automobiles. The diverse set of parameters allows for a nuanced examination of user attention and interest in various aspects of car specifications. This rich and extensive dataset lays the groundwork for a thorough exploration of user preferences, contributing valuable insights to the understanding of consumer priorities in the automotive domain.
+
+## Method
+In this study, data collection was conducted from two reputable automotive websites, followed by a meticulous data query process to filter out non-compliant data and extraneous parameters. The refined dataset was then subjected to analysis using a black-box model. Subsequently, a custom SALib program was employed to scrutinize the model, ultimately revealing the ranking of parameter weights. This methodology ensures a rigorous and systematic approach, integrating data cleaning, black-box modeling, and sensitivity analysis through SALib, leading to a comprehensive understanding of the influential parameters in the automotive context.
+
+## Result
+In the results section, the obtained parameter weight rankings from the black-box model offer valuable insights into the relative importance of each variable. The interpretation of the black-box model sheds light on the key factors influencing the overall system. By deciphering the parameter weightings, a clearer understanding emerges regarding the impact of individual parameters on the model's outcomes. This result not only provides actionable information for refining the model but also contributes to a deeper comprehension of the intricate relationships within the black-box system, enhancing the overall effectiveness and interpretability of the analytical outcomes.
+
+# Intellectual Merits/Practical Impacts:
+By successfully applying XAI methods, the research intends to provide interpretable models for the field of car recommendation system, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of car recommendation technology (Caruana et al., 2018).
+
+# Reference
+Binder, M., Heinrich, B., Hopf, M., et al. (2022). "Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews." Electron Markets, 32, 2123–2138.
+
+Caruana, R., Lou, Y., Gehrke, J., Koch, P., Sturm, M., & Elhadad, N. (2015). "Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission." In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1721-1730)
+
+Lundberg, S. M., & Lee, S. I. (2017). "A unified approach to interpreting model predictions." In Advances in neural information processing systems (pp. 4765-4774)
+
+Chen, J., Song, L., Le, G., & Samaras, D. (2018). "Local Interpretable Model-Agnostic Explanations for Black Box Models." arXiv preprint arXiv:1802.03735
+
+Rudin, C. (2019). "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead." Nature Machine Intelligence, 1(5), 206-215
+
+Broussard, Meredith . “Artificial Unintelligence.” MIT Press, 29 Sept. 2020, mitpress.mit.edu/9780262537018/artificial-unintelligence/.
