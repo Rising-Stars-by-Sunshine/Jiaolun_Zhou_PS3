@@ -66,6 +66,7 @@ In the results section, the obtained parameter weight rankings from the black-bo
 ## Spotlight
 
 - Posters
+
   <img src="Jiaolun's Poster.png" alt="Abstract Word Cloud">
   
 - Figures
@@ -94,10 +95,15 @@ In the results section, the obtained parameter weight rankings from the black-bo
 
 ## More about the Author
 - headshot
+
   <img src="Photo.jpg" alt="Abstract Word Cloud">
+
 - self-introduction
+
 My name is Jiaolun Zhou and I am studying computer science at Duke Kunshan University. I conducted research in the sensing and interaction laboratory, and had certain research on the Internet of Things and game programming (unity2D, rpgmaker). Currently, two self-developed horizontal board pixel games have been released on github.
+
 - Final reflections 
+
 ### Intellectual Growth:
 
 In the realm of intellectual growth, the exploration of complex models and the meticulous analysis of parameter weightings contribute to a profound expansion of knowledge. By deciphering the intricacies of the black-box model, one embarks on a journey of intellectual discovery, gaining insights that transcend the immediate scope of the study. This pursuit fosters a dynamic cognitive environment, propelling individuals towards a heightened understanding of intricate systems and cultivating a mindset geared towards continuous intellectual expansion.
