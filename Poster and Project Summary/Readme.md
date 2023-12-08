@@ -1,4 +1,4 @@
-# Importance of this research and background
+# Background and motivation
 In modern society, more and more AI smart recommendations are starting to come into human life. For example, 大众点评 can implement recommendations for restaurants and attractions that are suitable for users. 探探 can recommend suitable candidates as relationship objects for users in real time. In addition to the above two software, there are also software such as soul, Baidu map and WeChat small program that use AI algorithms to recommend suitable choices for users. However, while feeling the convenience that AI brings to people, some people also question the recommendation mechanism behind AI algorithms.
 
 For example, in a dating recommandation software, there are three men in a sample. All of them have their own advantages, which one will be recommanded?
