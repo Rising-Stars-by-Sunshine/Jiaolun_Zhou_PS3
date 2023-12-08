@@ -72,6 +72,7 @@ In the results section, the obtained parameter weight rankings from the black-bo
 - Figures
   
   <img src="83e2772f163a3aabec28646f4570867.jpg" alt="Abstract Word Cloud">
+
   <img src="93a096a97fd50014eff969614916133.jpg" alt="Abstract Word Cloud">
   
 - Slides
@@ -94,6 +95,7 @@ In the results section, the obtained parameter weight rankings from the black-bo
   In the pursuit of disseminating research findings and engaging with a wider audience, our work has garnered notable media appearances. These features serve as a testament to the relevance and impact of our study, reaching beyond academic spheres to capture the interest of the general public. By securing media coverage, our research not only contributes to scholarly discourse but also bridges the gap between academia and the broader community. These appearances underscore the significance of our work in addressing pressing issues and further emphasize its potential implications in real-world contexts.
 
 ## More about the Author
+
 - headshot
 
   <img src="Photo.jpg" alt="Abstract Word Cloud">
@@ -119,15 +121,25 @@ The pursuit of understanding parameter weightings within the black-box model ext
 ## References
 
 ### Data Source
+
 - [Automobile information in China, 2023](https://www.daas-auto.com/supermarket_data_De/109.html)
+
 - [Car information and comparison](https://www.jdpower.com/cars/2022/acura/ilx)
+
 ### Code Source
+
 - [SALib: An open-source Python library for sensitivity analysis](https://joss.theoj.org/papers/10.21105/joss.00097)
+
 ### Articles
+
 - [SALib: An open-source Python library for sensitivity analysis](https://joss.theoj.org/papers/10.21105/joss.00097)
+
 - [Sensitivity analysis: Strategies, methods, concepts, and challenges](https://www.sciencedirect.com/science/article/pii/S1364815215300493)
+
 - [Exploration of parameter influences on the simulated performance of a free water surface wetland model](https://www.sciencedirect.com/science/article/pii/S1364815210000717)
+
 ### Literature
+
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
