@@ -13,7 +13,9 @@
   - Can Morris be used in analyzing other comparison of weights for different parameters in other models or using other datas?
 
 # Answer to research questions by chatgpt
+
 <img src="590841e16841ef6387f84952f107304.jpg" alt="Abstract Word Cloud">
+
 <img src="00ffcd60a61426413cd149df0ea5937.jpg" alt="Abstract Word Cloud">
  
   - [Application Scenario (Data Source)](./Literature/#Literature)
@@ -62,15 +64,20 @@ In the code section, I leverage the Morris tool from the SALib package to perfor
 ## Result
 In the results section, the obtained parameter weight rankings from the black-box model offer valuable insights into the relative importance of each variable. The interpretation of the black-box model sheds light on the key factors influencing the overall system. By deciphering the parameter weightings, a clearer understanding emerges regarding the impact of individual parameters on the model's outcomes. This result not only provides actionable information for refining the model but also contributes to a deeper comprehension of the intricate relationships within the black-box system, enhancing the overall effectiveness and interpretability of the analytical outcomes.
 ## Spotlight
+
 - Posters
   <img src="Jiaolun's Poster.png" alt="Abstract Word Cloud">
+  
 - Figures
   <img src="83e2772f163a3aabec28646f4570867.jpg" alt="Abstract Word Cloud">
   <img src="93a096a97fd50014eff969614916133.jpg" alt="Abstract Word Cloud">
+  
 - Slides
    In the presentation, poster is used as slide to show the result and process.
+  
 - Presentations
   In the presentation, result and metholodgy are shown while defense is also required.
+  
 - Review articles
   
 - Media appearance
