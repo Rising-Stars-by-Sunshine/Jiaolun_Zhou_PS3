@@ -77,7 +77,7 @@ In the results section, the obtained parameter weight rankings from the black-bo
 # Intellectual Merits/Practical Impacts:
 By successfully applying XAI methods, the research intends to provide interpretable models for the field of car recommendation system, contributing to increased trust, reduced risks, and enhanced safety and transparency in practical applications. This could advance the development and widespread use of car recommendation technology (Caruana et al., 2018).
 
-<img src="Jiaolun's Poster.jpg" alt="Abstract Word Cloud">
+<img src="Jiaolun's Poster.png" alt="Abstract Word Cloud">
 
 # Reference
 Binder, M., Heinrich, B., Hopf, M., et al. (2022). "Global reconstruction of language models with linguistic rules – Explainable AI for online consumer reviews." Electron Markets, 32, 2123–2138.
