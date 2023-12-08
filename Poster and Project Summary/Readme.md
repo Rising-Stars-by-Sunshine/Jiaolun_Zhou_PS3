@@ -30,7 +30,6 @@ In order to solve this problem, it is necessary to introduce the concept of XAI 
 
 <img src="e76ba8c199a755da523ffaeca1f81f7.jpg" alt="Abstract Word Cloud">
 
-# Brief introduction for the contents here
 XAI is a new type of AI technology that explains AI's decisions and helps users better understand how and why AI makes decisions, so that customers can use AI output more transparently, clearly and effectively.
 
 This study aims to first demonstrate the authors' understanding of XAI, and then to identify a real-world case study in which XAI is put to work.
@@ -39,7 +38,6 @@ The aim of this piece of research is to analyze the performance and value of the
 
 The following is the literature section of this research, which will first introduce the definition of XAI and the research area of this paper.
 
-# About SALib package and Morris algorithm applied in this research
 In this paper, we will use the SALib package to analyze the price and performance of automobiles.The SALib package uses the Morris algorithm, an algorithm that allows us to implement sensitive artificial intelligence analysis. The next part of the paper will describe the reasons why Morris enables sensitive AI analysis.
 
 First, there is the sampling strategy of the Morris algorithm, which does not analyze all the data, but rather samples a limited amount of data to make it more feasible for high-dimensional problems.
