@@ -58,3 +58,9 @@ The above is the reason why this paper adopts SALib package for data analysis, a
 To explain about the Maths formula behind Morris, refer to the graph or the official website of SALib: https://github.com/SALib/SALib
 
 <img src="a53f42958c14e1cd76fc9381eb46249.jpg" alt="Abstract Word Cloud">
+
+# Research Questions
+
+How can SALib be used to analyze the comparison of weights for different parameters in analyzing the problem of AI?
+
+Can Morris be used in analyzing other comparison of weights for different parameters in other models or using other datas?
