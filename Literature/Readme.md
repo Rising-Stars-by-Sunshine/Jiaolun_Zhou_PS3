@@ -1,4 +1,3 @@
-# To ensure that literature is shown at the beginning of this part, the sequence is changed. If audience wants to know the background and brief introduction of this part, slide down and you will see a detailed introduction and background of this research.
 
 # Literature
 In this part, there will be four literature related to this research and I will explain how I am inspired by these literature and how I contribute to these literature.
